@@ -1,4 +1,4 @@
-Работы выполненные по предмету Android
+Работы выполненные на React
 
 ## [CD2.0](https://github.com/qweeep/Android/blob/main/CD2.0)
 ## [CD2.2](https://github.com/qweeep/Android/blob/main/CD2.2)
